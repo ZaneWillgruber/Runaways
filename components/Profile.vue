@@ -5,7 +5,7 @@
         <img class="border-white border-8 rounded-full"
           src="https://bytetag-profile-pictures.s3.amazonaws.com/f965d98b-69d7-4e30-9ccd-cc00773118a2.png?pfpVersion=0VKR">
       </div>
-      <div class="col-span-1">
+      <div class="col-span-1 row-span-2 flex">
         <div class="grid grid-cols-2 grid-flow-row gap-2 m-auto ml-0 mr-20">
           <div class="m-auto col-span-2 ml-0">
             <h1 class="text-xl font-bold">Oz</h1>
